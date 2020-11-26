@@ -1,0 +1,17 @@
+{
+    "parent_id": 4,
+    "page_id": 15,
+    "page_token": "abilities",
+    "page_name": "Abilities",
+    "page_url": "database\/abilities\/",
+    "page_title": "Mega Man RPG Prototype Ability Database",
+    "page_seo_title": "Prototype Ability Database",
+    "page_seo_keywords": "database, sprites, abilities, weapons",
+    "page_seo_description": "The ability database contains detailed information about the Mega Man RPG Prototype's equippable abilities including their base stats, types, descriptions, compatible robots, and sprite sheets.",
+    "page_date_created": 1576300135,
+    "page_date_modified": 1598839323,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 5
+}

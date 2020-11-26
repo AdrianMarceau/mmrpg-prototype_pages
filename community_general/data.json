@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 20,
+    "page_token": "general",
+    "page_name": "General",
+    "page_url": "community\/general\/",
+    "page_title": "Mega Man RPG Prototype General Discussion",
+    "page_seo_title": "General Discussion",
+    "page_seo_keywords": "general, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "Use the General Discussion board for all topics that do not fit into the other categories.  All topics not involving updates, bug reports, game mechanics or development will stay on this board.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389627,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 2
+}

@@ -1,0 +1,16 @@
+{
+    "parent_id": 0,
+    "page_id": 0,
+    "page_token": "page",
+    "page_name": "Page",
+    "page_url": "page\/",
+    "page_title": "Page",
+    "page_seo_title": "Page",
+    "page_seo_keywords": "lorem,ipsum,dolar,sit,amet",
+    "page_seo_description": "Lorem ipsum dolar sit amet",
+    "page_date_created": 0,
+    "page_date_modified": 0,
+    "page_flag_hidden": 0,
+    "page_flag_published": 0,
+    "page_order": 0
+}

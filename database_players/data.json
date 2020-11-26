@@ -1,0 +1,17 @@
+{
+    "parent_id": 4,
+    "page_id": 10,
+    "page_token": "players",
+    "page_name": "Players",
+    "page_url": "database\/players\/",
+    "page_title": "Mega Man RPG Prototype Player Database",
+    "page_seo_title": "Prototype Player Database",
+    "page_seo_keywords": "database, sprites, players, abilities",
+    "page_seo_description": "The player database contains detailed information about the Mega Man RPG Prototype's playable characters including their unlockable abilities, battle quotes, and sprite sheets.",
+    "page_date_created": 1576300135,
+    "page_date_modified": 1576389514,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 1
+}

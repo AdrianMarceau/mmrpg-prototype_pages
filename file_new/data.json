@@ -1,0 +1,17 @@
+{
+    "parent_id": 29,
+    "page_id": 30,
+    "page_token": "new",
+    "page_name": "New",
+    "page_url": "file\/new\/",
+    "page_title": "Create New Game File",
+    "page_seo_title": "Create New Game File",
+    "page_seo_keywords": "new, save, file, account, game",
+    "page_seo_description": "Create a new Mega Man RPG Prototype save file using this page.",
+    "page_date_created": 1576375213,
+    "page_date_modified": 1599330371,
+    "page_flag_hidden": 1,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 1
+}

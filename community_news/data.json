@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 19,
+    "page_token": "news",
+    "page_name": "News",
+    "page_url": "community\/news\/",
+    "page_title": "Mega Man RPG Prototype News & Updates",
+    "page_seo_title": "News & Updates",
+    "page_seo_keywords": "news, updates, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "The News & Updates board contains an archive of all website and prototype-related updates that have been posted to the community. These include feature additions, mechanics tweaks, new pages, and more.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576440703,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 1
+}

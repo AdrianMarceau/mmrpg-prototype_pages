@@ -1,0 +1,17 @@
+{
+    "parent_id": 4,
+    "page_id": 12,
+    "page_token": "robots",
+    "page_name": "Robots",
+    "page_url": "database\/robots\/",
+    "page_title": "Mega Man RPG Prototype Robot Database",
+    "page_seo_title": "Prototype Robot Database",
+    "page_seo_keywords": "database, sprites, robots, abilities",
+    "page_seo_description": "The robot database contains detailed information about the Mega Man RPG Prototype's robot fighters including their stats, unlockable abilities, battle quotes, and sprite sheets.",
+    "page_date_created": 1576300135,
+    "page_date_modified": 1576389518,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 2
+}

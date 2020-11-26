@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 26,
+    "page_token": "development",
+    "page_name": "Development",
+    "page_url": "community\/development\/",
+    "page_title": "Mega Man RPG Prototype Game Development",
+    "page_seo_title": "Game Development",
+    "page_seo_keywords": "development, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "The Game Development section will be used to display\/discuss aspects of the prototype's mechanics and artwork - including feature additions, sprite editing, stat balancing, and anything else about the game's creation that would benefit from feedback or col",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389650,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 7
+}

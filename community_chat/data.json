@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 28,
+    "page_token": "chat",
+    "page_name": "Chat",
+    "page_url": "community\/chat\/",
+    "page_title": "Mega Man RPG Prototype Chat Room",
+    "page_seo_title": "Chat Room",
+    "page_seo_keywords": "chat, chat room, discord, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "Well folks, we have a text-based Chatroom now! A place to talk about whatever you desire!  Literature, games, life, other projects, humor, sports, and of course the Mega Man RPG! Follow the rules and have fun!",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1593543902,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 9
+}

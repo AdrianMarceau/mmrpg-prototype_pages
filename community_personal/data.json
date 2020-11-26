@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 22,
+    "page_token": "personal",
+    "page_name": "Personal",
+    "page_url": "community\/personal\/",
+    "page_title": "Mega Man RPG Prototype Personal Messages",
+    "page_seo_title": "Personal Messages",
+    "page_seo_keywords": "personal, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "Use the personal message system to communicate with other members of the community. Please be respectful of other users and their privacy and space.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389619,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 0
+}

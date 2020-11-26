@@ -1,0 +1,17 @@
+{
+    "parent_id": 0,
+    "page_id": 6,
+    "page_token": "leaderboard",
+    "page_name": "Leaderboard",
+    "page_url": "leaderboard\/",
+    "page_title": "Mega Man RPG Prototype Leaderboard",
+    "page_seo_title": "Battle Points Leaderboard",
+    "page_seo_keywords": "leaderboard, rankings, competition",
+    "page_seo_description": "The Mega Man RPG Prototype leaderboard ranks all players based on their Battle Point totals, with the best prominently displayed at the top. Players earn Battle Points throughout the course of the game by completing certain events and collecting items.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389673,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 6
+}

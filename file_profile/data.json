@@ -1,0 +1,17 @@
+{
+    "parent_id": 29,
+    "page_id": 33,
+    "page_token": "profile",
+    "page_name": "Profile",
+    "page_url": "file\/profile\/",
+    "page_title": "Edit Account \/ Profile Details",
+    "page_seo_title": "Edit Account \/ Profile Details",
+    "page_seo_keywords": "view, save, file, account, game",
+    "page_seo_description": "View the details of the currently loaded Mega Man RPG Prototype save file using this page.",
+    "page_date_created": 1576375213,
+    "page_date_modified": 1576389711,
+    "page_flag_hidden": 1,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 4
+}

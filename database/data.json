@@ -1,0 +1,17 @@
+{
+    "parent_id": 0,
+    "page_id": 4,
+    "page_token": "database",
+    "page_name": "Database",
+    "page_url": "database\/",
+    "page_title": "Mega Man RPG Prototype Database",
+    "page_seo_title": "Prototype Database",
+    "page_seo_keywords": "database, bestiary, sprites, robots, players, abilities, bosses, mechas, items",
+    "page_seo_description": "The database contains detailed information on the Mega Man RPG Prototype's robots, players, and abilities including each robot's base stats, weaknesses, unlockable abilities, robot and player battle quotes, hundreds of sprite sheets, and much more.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389509,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 3
+}

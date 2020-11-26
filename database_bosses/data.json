@@ -1,0 +1,17 @@
+{
+    "parent_id": 4,
+    "page_id": 14,
+    "page_token": "bosses",
+    "page_name": "Bosses",
+    "page_url": "database\/bosses\/",
+    "page_title": "Mega Man RPG Prototype Boss Database",
+    "page_seo_title": "Prototype Boss Database",
+    "page_seo_keywords": "database, sprites, bosses, abilities",
+    "page_seo_description": "The boss database contains detailed information about the Mega Man RPG Prototype's fortress bosses including their stats, usable abilities, battle quotes, and sprite sheets.",
+    "page_date_created": 1576300135,
+    "page_date_modified": 1598833393,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 4
+}

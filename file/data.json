@@ -1,0 +1,17 @@
+{
+    "parent_id": 0,
+    "page_id": 29,
+    "page_token": "file",
+    "page_name": "File",
+    "page_url": "file\/",
+    "page_title": "Prototype Save Files",
+    "page_seo_title": "Prototype Game File",
+    "page_seo_keywords": "file, account, game, load, save, new",
+    "page_seo_description": "An account is required to play the Mega Man RPG Prototype.  Create a new save file and account or log into an existing one from this page.",
+    "page_date_created": 1576375213,
+    "page_date_modified": 1576389693,
+    "page_flag_hidden": 1,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 9
+}

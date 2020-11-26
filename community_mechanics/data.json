@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 25,
+    "page_token": "mechanics",
+    "page_name": "Mechanics",
+    "page_url": "community\/mechanics\/",
+    "page_title": "Mega Man RPG Prototype Game Mechanics",
+    "page_seo_title": "Game Mechanics",
+    "page_seo_keywords": "mechanics, rules, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "The Game Mechanics section will be used by the developers to catalog and document the various battle mechanics and other technical aspects of the game that require thorough explanation.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389645,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 6
+}

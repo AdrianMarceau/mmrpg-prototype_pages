@@ -1,0 +1,17 @@
+{
+    "parent_id": 4,
+    "page_id": 13,
+    "page_token": "mechas",
+    "page_name": "Mechas",
+    "page_url": "database\/mechas\/",
+    "page_title": "Mega Man RPG Prototype Mecha Database",
+    "page_seo_title": "Prototype Mecha Database",
+    "page_seo_keywords": "database, sprites, mechas, abilities",
+    "page_seo_description": "The mecha database contains detailed information about the Mega Man RPG Prototype's mecha support units including their stats, signature abilities, battle quotes, and sprite sheets.",
+    "page_date_created": 1576300135,
+    "page_date_modified": 1576389523,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 3
+}

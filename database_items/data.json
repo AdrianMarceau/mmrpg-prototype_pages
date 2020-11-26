@@ -1,0 +1,17 @@
+{
+    "parent_id": 4,
+    "page_id": 16,
+    "page_token": "items",
+    "page_name": "Items",
+    "page_url": "database\/items\/",
+    "page_title": "Mega Man RPG Prototype Item Database",
+    "page_seo_title": "Prototype Item Database",
+    "page_seo_keywords": "database, sprites, items, loot, unlockables",
+    "page_seo_description": "The item database contains detailed information about the Mega Man RPG Prototype's collectible items including their stats, descriptions, and sprite sheets.",
+    "page_date_created": 1576300135,
+    "page_date_modified": 1576389537,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 6
+}

@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 27,
+    "page_token": "bugs",
+    "page_name": "Bugs",
+    "page_url": "community\/bugs\/",
+    "page_title": "Mega Man RPG Prototype Bug Reports",
+    "page_seo_title": "Bug Reports",
+    "page_seo_keywords": "bugs, issues, reports, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "Please use the Bug Reports section to discuss bugs, errors, or oddities you notice while playing the game.  By submitting a bug to this discussion board, others have the opportunity to help or contribute in a way that makes things easier on the devs.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389655,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 8
+}

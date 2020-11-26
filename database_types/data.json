@@ -1,0 +1,17 @@
+{
+    "parent_id": 4,
+    "page_id": 18,
+    "page_token": "types",
+    "page_name": "Types",
+    "page_url": "database\/types\/",
+    "page_title": "Mega Man RPG Prototype Type Database",
+    "page_seo_title": "Prototype Type Database",
+    "page_seo_keywords": "database, sprites, types, elements",
+    "page_seo_description": "The robots, abilities, fields, and many other aspects of the Mega Man RPG are designed around 20 predefined \"types\" that represent various elemental affinities and\/or methods of attack in the game.  Knowing these types can make the difference in battle.",
+    "page_date_created": 1576300135,
+    "page_date_modified": 1576389550,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 8
+}

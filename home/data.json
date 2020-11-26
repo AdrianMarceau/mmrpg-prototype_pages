@@ -1,0 +1,17 @@
+{
+    "parent_id": 0,
+    "page_id": 1,
+    "page_token": "home",
+    "page_name": "Home",
+    "page_url": "home\/",
+    "page_title": "Mega Man RPG Prototype",
+    "page_seo_title": "Mega Man RPG Prototype",
+    "page_seo_keywords": "home, welcome, leaderboard, gallery, news",
+    "page_seo_description": "Welcome to the Mega Man RPG Prototype, where you can battle your way through more than sixteen robot masters in classic RPG style with either Dr. Light and Mega Man or Dr. Wily and Proto Man!",
+    "page_date_created": 1576039239,
+    "page_date_modified": 1593370096,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 0
+}

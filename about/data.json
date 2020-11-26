@@ -1,0 +1,17 @@
+{
+    "parent_id": 0,
+    "page_id": 2,
+    "page_token": "about",
+    "page_name": "About",
+    "page_url": "about\/",
+    "page_title": "About the Mega Man RPG Prototype",
+    "page_seo_title": "About the Mega Man RPG Prototype",
+    "page_seo_keywords": "about, history, development, mechanics",
+    "page_seo_description": "What is the Mega Man RPG Prototype?",
+    "page_date_created": 1576039239,
+    "page_date_modified": 1599331942,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 1
+}

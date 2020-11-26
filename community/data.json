@@ -1,0 +1,17 @@
+{
+    "parent_id": 0,
+    "page_id": 5,
+    "page_token": "community",
+    "page_name": "Community",
+    "page_url": "community\/",
+    "page_title": "Mega Man RPG Prototype Community",
+    "page_seo_title": "Community Forums",
+    "page_seo_keywords": "community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "The community forums serve as a place for players and developers to connect and communicate with each other, providing feedback and relaying ideas in a forum-style bulletin board tied directly to player's save files.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389615,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 5
+}

@@ -1,0 +1,17 @@
+{
+    "parent_id": 0,
+    "page_id": 3,
+    "page_token": "gallery",
+    "page_name": "Gallery",
+    "page_url": "gallery\/",
+    "page_title": "Mega Man RPG Prototype Gallery",
+    "page_seo_title": "Screenshot Gallery",
+    "page_seo_keywords": "gallery, images, screenshots",
+    "page_seo_description": "Gameplay screenshots from the Mega Man RPG Prototype.",
+    "page_date_created": 1576212686,
+    "page_date_modified": 1576389504,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 1,
+    "page_order": 2
+}
