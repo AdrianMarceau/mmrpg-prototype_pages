@@ -1,0 +1,17 @@
+{
+    "parent_id": 5,
+    "page_id": 38,
+    "page_token": "search",
+    "page_name": "Search",
+    "page_url": "community\/search\/",
+    "page_title": "Mega Man RPG Prototype Community Search",
+    "page_seo_title": "Community Search",
+    "page_seo_keywords": "search, community, forums, discussion, messages, posts, threads",
+    "page_seo_description": "Use the Community Search page to find specific posts, threads, or other information published to the community by our users or our staff.",
+    "page_date_created": 1607753305,
+    "page_date_modified": 1607767018,
+    "page_flag_hidden": 0,
+    "page_flag_published": 1,
+    "page_flag_locked": 0,
+    "page_order": 99
+}
